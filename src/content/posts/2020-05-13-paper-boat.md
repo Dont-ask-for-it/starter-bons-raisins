@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Vins de la semaine du 2 décembre 2022
+title: Semaine du 2 décembre 2022
 slug: /vins-02-12-2022
 date: 2020-05-23 23:40
 description: How to draw a character
